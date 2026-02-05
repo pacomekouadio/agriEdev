@@ -64,6 +64,11 @@ header{
     font-size: 1em;
     font-weight: 300;
     text-transform: capitalize;
+    transition: 0.5s all;
+}
+
+.header-top .nav a:hover{
+    color: rgb(255, 154, 32);
 }
 
 .hero{
