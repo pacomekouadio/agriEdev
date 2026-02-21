@@ -8,7 +8,7 @@
         <div class="hero" id="hero">
             <div class="title">
                 <span>Bienvenue chez AgriEdev Africa</span>
-                <h1>L’agriculture autrement, ensemble,<br> connectée et partagée</h1>
+                <h1>Nos evenment</h1>
                 <div class="bouton">
                     <a href="" class="btn-un">Nos services</a>
                     <a href="" class="btn-deux">Nos événements</a>

@@ -6,10 +6,10 @@
             <p>Partez à la découverte de nouvelles terres, cultures et opportunités agricoles.</p>
         </div>
         <div class="lien">
-            <a href="">Accueil</a>
-            <a href="">À propos</a>
-            <a href="">Services</a>
-            <a href="">Contact</a>
+            <a href="index.php">Accueil</a>
+            <a href="about.php">À propos</a>
+            <a href="service.php">Services</a>
+            <a href="contact.php">Contact</a>
         </div>
         <form action="">
             <h3>Nous contacter</h3>
